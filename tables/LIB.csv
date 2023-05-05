@@ -1,0 +1,32 @@
+book_id,title,chapter_regex,book_len,n_chaps,kendall_sum
+1,Harry Potter and the Philosopher's Stone,^\s*([A-Z'\s]+|[A-Z\s]+)\s*,80277,17,1.5126863709138716
+2,Harry Potter and the Chamber of Secrets,"^[^\S
+]*([A-Z][^a-z]*)((?:
+(?![^\S
+]*[A-Z][^a-z
+]*$).*)*)$",88098,18,1.470394615014049
+3,Harry Potter and the Prisoner of Azkaban,"^[^\S
+]*([A-Z][^a-z]*)((?:
+(?![^\S
+]*[A-Z][^a-z
+]*$).*)*)$",110954,22,1.4608323435695214
+4,Harry Potter and the Goblet of Fire,"^[^\S
+]*([A-Z][^a-z]*)((?:
+(?![^\S
+]*[A-Z][^a-z
+]*$).*)*)$",196367,37,1.441638200146314
+5,Harry Potter and the Order of the Phoenix,"^[^\S
+]*([A-Z][^a-z]*)((?:
+(?![^\S
+]*[A-Z][^a-z
+]*$).*)*)$",264622,38,1.392982233938535
+6,Harry Potter and the Half-Blood Prince,"^[^\S
+]*([A-Z][^a-z]*)((?:
+(?![^\S
+]*[A-Z][^a-z
+]*$).*)*)$",174090,30,1.1530785256982985
+7,Harry Potter and the Deathly Hallows,"^[^\S
+]*([A-Z][^a-z]*)((?:
+(?![^\S
+]*[A-Z][^a-z
+]*$).*)*)$",203859,37,0.8033613358357042
